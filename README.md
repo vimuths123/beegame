@@ -1,6 +1,4 @@
----
-
-# Bee hitting games
+# Bee hitting game
 
 This is a Laravel project designed for hitting bees.
 
