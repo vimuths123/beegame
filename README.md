@@ -1,10 +1,8 @@
-Certainly! Here's a sample README.md file for your Laravel project:
-
 ---
 
-# Project Name
+# Bee hitting games
 
-This is a Laravel project designed for [brief description here].
+This is a Laravel project designed for hitting bees.
 
 ## Prerequisites
 
@@ -12,7 +10,7 @@ Before you begin, ensure you have met the following requirements:
 
 - PHP 8.1 (or later)
 - Composer (for PHP dependency management)
-- Node.js and npm (for frontend assets)
+- Node.js and npm (for frontend assets) 
 
 ## Installation
 
